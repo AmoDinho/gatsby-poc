@@ -8,7 +8,7 @@ media_folder: "static/uploads"
 collections:
   - name: "content"
     label: "Content"
-    folder: "content"
+    folder: "src/content"
     create: true
     slug: "{{slug}}"
     fields:
