@@ -1,7 +1,7 @@
 ---
 title: How to add a truck
 date: 2020-09-10
-path: /how-to-add-a-post
+path: /how-to-add-a-truck
 ---
 
 Learn how to add a truck
