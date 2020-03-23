@@ -5,4 +5,6 @@ tag: My fleet
 date: 2020-03-23T07:40:04.181Z
 coverImg: img
 ---
+![](/uploads/optimus-prime-transformers.jpg)
+
 blah blah blha
