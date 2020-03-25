@@ -17,8 +17,6 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ##### Below are key instructions required to successfullyADD AND EDITa trailer on Tripplo. Refer to your “Certificate of Registration”OR “Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card”.
 
-
-
 ##### Step 1:Login to your account, and make sure you have your statutory documents ready.
 
 ##### Step 2:On the left blue column, Click “My Fleet”.
@@ -41,4 +39,4 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ##### Step 12: You have successfully added your trailer!
 
-##### **Step 11:If you need to update any information, Click “Edit” in the top right corner, update the information then Click “Save.**
+##### **Step 11: If you need to update any information, Click “Edit” in the top right corner, update the information then Click “Save.**
