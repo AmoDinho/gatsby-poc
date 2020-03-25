@@ -5,10 +5,6 @@ tag: My Fleet
 date: 2020-03-23T07:40:04.181Z
 coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 ---
-![](/uploads/screenshot-2020-03-25-at-17.21.39.png)
-
-![](/uploads/screenshot-2020-03-25-at-17.21.32.png)
-
 ##### My Fleet seamlessly stores and manages information of a transporter’s trucks, trailers, and drivers all in one safe and consolidated view. As a transport owner, you and your fleet management operators will no longer need to open multiple tools, documents or folders to preview and manage key fleet information.
 
 ##### With My Fleet, you will also receive real-time alerts that notify you of any document, permit or fee expiration, thus saving you time, money and reducing compliance headaches.
@@ -40,3 +36,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 ##### Step 12: You have successfully added your trailer!
 
 ##### **Step 11: If you need to update any information, Click “Edit” in the top right corner, update the information then Click “Save.**
+
+![](/uploads/screenshot-2020-03-25-at-17.21.39.png)
+
+![](/uploads/screenshot-2020-03-25-at-17.21.32.png)
