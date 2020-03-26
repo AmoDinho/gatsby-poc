@@ -55,3 +55,19 @@ coverImg: >-
 ![](/uploads/screenshot-2020-03-26-at-10.03.39.png)
 
 ![](/uploads/screenshot-2020-03-26-at-10.03.10.png)
+
+### ADDING AND EDITING DEFENSIVE DRIVERS CERTIFICATE:
+
+##### Step 15: On the top right corner, click edit
+
+##### **Step 16:** In left panel on the form, click a tab named “Defensive Drivers Certificate”.
+
+##### Step 17: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 18: Click Save
+
+##### Step 19: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-12.43.04.png)
+
+![](/uploads/screenshot-2020-03-26-at-12.42.47.png)
