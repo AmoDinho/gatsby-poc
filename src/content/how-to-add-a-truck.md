@@ -37,7 +37,11 @@ coverImg: >-
 
 ##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-13.55.47.png "Certificate of Registration")
+![](/uploads/screenshot-2020-03-26-at-14.15.05.png)
+
+![](/uploads/screenshot-2020-03-26-at-14.16.44.png)
+
+![](/uploads/screenshot-2020-03-26-at-14.17.05.png)
 
 ### 2. OPERATING LICENSES:
 
