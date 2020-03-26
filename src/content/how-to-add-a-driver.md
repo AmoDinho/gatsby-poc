@@ -24,8 +24,6 @@ coverImg: img
 13. International Driving Permit
 14. Defensive Driving Certificate
 
-
-
 ### 1. DRIVER IDENTIFICATION:
 
 ##### Step 1:Login to your account, and make sure you have your driver’s identification details ready.
@@ -43,6 +41,8 @@ coverImg: img
 ##### Step 8: Click Save
 
 ##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-15.02.11.png)
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.25.png "South African ID Card")
 
@@ -97,8 +97,6 @@ coverImg: img
 ![](/uploads/screenshot-2020-03-26-at-13.32.54.png)
 
 ![](/uploads/screenshot-2020-03-26-at-13.32.36.png)
-
-
 
 ### 12. RSA TRAFFIC REGISTER:
 
