@@ -42,7 +42,11 @@ coverImg: img
 
 ##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
 
+![](/uploads/screenshot-2020-03-26-at-15.35.51.png)
 
+![](/uploads/screenshot-2020-03-26-at-09.26.16.png)
+
+![](/uploads/screenshot-2020-03-26-at-09.26.25.png)
 
 ### 2. CONTACT DETAILS:
 
@@ -55,8 +59,6 @@ coverImg: img
 ##### Step 4: Click Save
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
-
-
 
 ### 3. ADDRESSES:
 
@@ -82,8 +84,6 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-
-
 ### 5. OTHER DRIVER DETAILS:
 
 ##### Step 1: On the top right corner, click edit
@@ -95,8 +95,6 @@ coverImg: img
 ##### Step 4: Click Save
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
-
-
 
 ### 6. BANKING DETAILS:
 
@@ -111,10 +109,6 @@ coverImg: img
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
 ![](/uploads/screenshot-2020-03-26-at-13.38.01.png)
-
-![](/uploads/screenshot-2020-03-26-at-09.26.16.png)
-
-![](/uploads/screenshot-2020-03-26-at-09.26.25.png)
 
 ![](/uploads/screenshot-2020-03-26-at-13.37.41.png)
 
