@@ -12,7 +12,7 @@ coverImg: >-
 
 ## **TRUCKS:**
 
-##### Below are key instructions to successfully ADD AND EDIT a truck on Tripplo. 
+##### Below are key instructions to successfully ADD AND EDIT a truck on Tripplo.
 
 ### ADDING AND EDITING OPERATING LICENCES:
 
@@ -26,11 +26,13 @@ coverImg: >-
 
 ##### **Step 6:** In left panel on the form, click a tab named “Truck Identification”.
 
-##### Step 7: Follow the steps highlighted in the screenshots to add the required information 
+##### Step 7: Follow the steps highlighted in the screenshots to add the required information
 
 ##### Step 8: Click Save
 
-##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard 
+##### Step 9: You have successfully added your Truck! Now you will see a list of the information added in the alerts/notification dashboard
+
+##### **Step 11: If you need to update any information, Click “Edit” in the top right corner, update the information then Click “Save.**
 
 ![](/uploads/screenshot-2020-03-24-at-15.51.10.png "Operating Licenses Information")
 
@@ -40,17 +42,15 @@ coverImg: >-
 
 ### ADDING AND EDITING PURCHASE DETAILS:
 
-
-
 ##### Step 10: On the top right corner, click edit
 
 ##### **Step 11:** In left panel on the form, click a tab named “Purchase Details”.
 
-##### Step 12: Follow the steps highlighted in the screenshots to add the required information 
+##### Step 12: Follow the steps highlighted in the screenshots to add the required information
 
 ##### Step 13: Click Save
 
-##### Step 14: Now you will see a list of the information added in the alerts/notification dashboard 
+##### Step 14: Now you will see a list of the information added in the alerts/notification dashboard
 
 ![](/uploads/screenshot-2020-03-26-at-10.03.39.png)
 
