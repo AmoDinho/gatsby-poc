@@ -11,19 +11,12 @@ coverImg: >-
 #### TABLE OF CONTENTS:
 
 1. Truck Identification
-
 2. Operating Licenses 
-
 3. Other Operating Licenses
-
 4. Purchase Details
-
 5. General Insurance 
-
 6. Goods in Transit Insurance 
-
 7. Tracking Unit
-
 8. Cross Border Permits
 
 
