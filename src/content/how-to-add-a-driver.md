@@ -11,8 +11,6 @@ coverImg: img
 
 ### DRIVER:
 
-##### Below are key instructions required to successfully ADD AND EDITa driver on Tripplo. Refer to your drivers’ “Identification Document”
-
 ##### Step 1:Login to your account, and make sure you have your driver’s identification details ready.
 
 ##### Step 2:On the left blue column, Click “My Fleet”.
