@@ -10,6 +10,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 #### TABLE OF CONTENTS:
 
 # [1. Trailer Identification](#1.traileridentification)
+
 2. Operating Licenses
 3. Other Operating Permits
 4. Purchase Details
