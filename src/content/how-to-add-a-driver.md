@@ -48,6 +48,34 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.16.png "South African Book")
 
+### 2. CONTACT DETAILS:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Contact Details”.
+
+##### Step 2: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+
+
+### 3. ADDRESSES:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Addresses”.
+
+##### Step 2: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+
+
 ### 4. EMPLOYMENT INFORMATION:
 
 ##### Step 1: On the top right corner, click edit
@@ -60,9 +88,21 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-13.38.01.png)
 
-![](/uploads/screenshot-2020-03-26-at-13.37.41.png)
+
+### 5. OTHER DRIVER DETAILS:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Other Driver Details”.
+
+##### Step 2: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+
 
 ### 6. BANKING DETAILS:
 
@@ -76,9 +116,15 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
+![](/uploads/screenshot-2020-03-26-at-13.38.01.png)
+
+![](/uploads/screenshot-2020-03-26-at-09.26.16.png)
+
+![](/uploads/screenshot-2020-03-26-at-09.26.25.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.37.41.png)
+
 ![](/uploads/screenshot-2020-03-26-at-13.37.48.png)
-
-
 
 ### 10. PASSPORT:
 
