@@ -7,7 +7,27 @@ coverImg: img
 ---
 ##### My Fleet seamlessly stores and manages information of a transporter’s trucks, trailers, and drivers all in one safe and consolidated view. As a transport owner, you and your fleet management operators will no longer need to open multiple tools, documents or folders to preview key feet information. With My Fleet, you will also receive real-time alerts that notify you of any document, permit or fee expiration; saving you time, money and reducing compliance headaches.
 
-### ADDING AND EDITING DRIVER IDENTIFICATION:
+#### TABLE OF CONTENTS:
+
+1. Driver Identification
+2. Contact Details
+3. Addresses
+4. Employment Details
+5. Other Driver Details
+6. Banking Details
+7. Driving License 
+8. Cross Border Permits
+9. Medical Certificate
+10. Passport
+11. Work Permit
+12. RSA Traffic Register
+13. Purchase Details
+14. International Driving Permit
+15. Defensive Driving Certificate
+
+
+
+### 1. DRIVER IDENTIFICATION:
 
 ##### Step 1:Login to your account, and make sure you have your driver’s identification details ready.
 
@@ -29,7 +49,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.16.png "South African Book")
 
-### ADDING AND EDITING DEFENSIVE DRIVERS CERTIFICATE:
+### 15. DEFENSIVE DRIVERS CERTIFICATE:
 
 ##### Step 15: On the top right corner, click edit
 
