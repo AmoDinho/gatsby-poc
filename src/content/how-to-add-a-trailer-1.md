@@ -26,7 +26,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ##### Step 5: Click “Trailer”
 
-##### Step 6:In the form, Click a tab named “Trailer Identification”.
+##### Step 6: In left panel on the form, click a tab named “Trailer Identification”.
 
 ##### Step 7: Follow the steps highlighted in the screenshots to add the required information
 
