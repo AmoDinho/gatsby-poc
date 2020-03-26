@@ -40,3 +40,19 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 ![](/uploads/screenshot-2020-03-25-at-17.21.39.png)
 
 ![](/uploads/screenshot-2020-03-25-at-17.21.32.png)
+
+### ADDING AND EDITING PURCHASE DETAILS:
+
+##### Step 10: On the top right corner, click edit
+
+##### **Step 11:**In left panel on the form, click a tab named “Purchase Details”.
+
+##### Step 12: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 13: Click Save
+
+##### Step 14: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-12.37.31.png)
+
+![](/uploads/screenshot-2020-03-26-at-12.36.05.png)
