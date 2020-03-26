@@ -6,13 +6,27 @@ date: 2020-03-24T00:00:00.000Z
 coverImg: >-
   https://images.unsplash.com/photo-1485575301924-6891ef935dcd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 ---
-##### My Fleet seamlessly stores and manages information of a transporter’s trucks, trailers, and drivers all in one safe and consolidated view. As a transport owner, you and your fleet management operators will no longer need to open multiple tools, documents or folders to preview and manage key fleet information.
+##### My Fleet seamlessly stores and manages information of a transporter’s trucks, trailers, and drivers all in one safe and consolidated view. As a transport owner, you and your fleet management operators will no longer need to open multiple tools, documents or folders to preview and manage key fleet information. With My Fleet, you will also receive real-time alerts that notify you of any document, permit or fee expiration, thus saving you time, money and reducing compliance headaches.
 
-##### With My Fleet, you will also receive real-time alerts that notify you of any document, permit or fee expiration, thus saving you time, money and reducing compliance headaches.
+#### TABLE OF CONTENTS:
 
-## **TRUCKS:**
+1. Truck Identification
 
-##### Below are key instructions to successfully ADD AND EDIT a truck on Tripplo.
+2. Operating Licenses 
+
+3. Other Operating Licenses
+
+4. Purchase Details
+
+5. General Insurance 
+
+6. Goods in Transit Insurance 
+
+7. Tracking Unit
+
+8. Cross Border Permits
+
+
 
 ### ADDING AND EDITING OPERATING LICENCES:
 
@@ -55,19 +69,3 @@ coverImg: >-
 ![](/uploads/screenshot-2020-03-26-at-10.03.39.png)
 
 ![](/uploads/screenshot-2020-03-26-at-10.03.10.png)
-
-### ADDING AND EDITING DEFENSIVE DRIVERS CERTIFICATE:
-
-##### Step 15: On the top right corner, click edit
-
-##### **Step 16:** In left panel on the form, click a tab named “Defensive Drivers Certificate”.
-
-##### Step 17: Follow the steps highlighted in the screenshots to add the required information
-
-##### Step 18: Click Save
-
-##### Step 19: Now you will see a list of the information added in the alerts/notification dashboard
-
-![](/uploads/screenshot-2020-03-26-at-12.43.04.png)
-
-![](/uploads/screenshot-2020-03-26-at-12.42.47.png)
