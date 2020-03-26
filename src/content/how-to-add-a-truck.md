@@ -16,8 +16,6 @@ coverImg: >-
 
 ### ADDING AND EDITING OPERATING LICENCES:
 
-##### Refer to your “Certificate of Registration” OR “Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card”.
-
 ##### **Step 1:** Login to your account, and make sure you have your statutory documents ready.
 
 ##### **Step 2:** On the left blue column, Click “My Fleet”.
@@ -46,7 +44,7 @@ coverImg: >-
 
 ##### Step 10: On the top right corner, click edit
 
-##### **Step 11:** In left panel on the form, click a tab named “Truck Identification”.
+##### **Step 11:** In left panel on the form, click a tab named “Purchase Details”.
 
 ##### Step 12: Follow the steps highlighted in the screenshots to add the required information 
 
