@@ -48,6 +48,24 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.16.png "South African Book")
 
+### 11. WORK PERMIT:
+
+##### Step 15: On the top right corner, click edit
+
+##### **Step 16:** In left panel on the form, click a tab named “Work Permit”.
+
+##### Step 17: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 18: Click Save
+
+##### Step 19: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.32.54.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.32.36.png)
+
+
+
 ### 12. RSA TRAFFIC REGISTER:
 
 ##### Step 15: On the top right corner, click edit
