@@ -11,8 +11,6 @@ coverImg: img
 
 ### DRIVER:
 
-##### Below are key instructions required to successfullyADD AND EDITa driver on Tripplo. Refer to your drivers’ “Identification Document”
-
 ##### Step 1:Login to your account, and make sure you have your driver’s identification details ready.
 
 ##### Step 2:On the left blue column, Click “My Fleet”.
@@ -23,7 +21,11 @@ coverImg: img
 
 ##### Step 6:In the form, Click a tab named “Driver Identification”.
 
-##### Step 7:Refer to your driver’s identification details and complete the required information.
+##### Step 7: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 8: Click Save
+
+##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.25.png "South African ID Card")
 
