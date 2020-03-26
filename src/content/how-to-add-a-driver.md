@@ -21,9 +21,8 @@ coverImg: img
 10. Passport
 11. Work Permit
 12. RSA Traffic Register
-13. Purchase Details
-14. International Driving Permit
-15. Defensive Driving Certificate
+13. International Driving Permit
+14. Defensive Driving Certificate
 
 
 
@@ -49,17 +48,103 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.16.png "South African Book")
 
-### 15. DEFENSIVE DRIVERS CERTIFICATE:
+### 4. EMPLOYMENT INFORMATION:
 
-##### Step 15: On the top right corner, click edit
+##### Step 1: On the top right corner, click edit
 
-##### **Step 16:** In left panel on the form, click a tab named “Defensive Drivers Certificate”.
+##### **Step 2:** In left panel on the form, click a tab named “Employment Information”.
 
-##### Step 17: Follow the steps highlighted in the screenshots to add the required information
+##### Step 2: Follow the steps highlighted in the screenshots to add the required information
 
-##### Step 18: Click Save
+##### Step 4: Click Save
 
-##### Step 19: Now you will see a list of the information added in the alerts/notification dashboard
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.38.01.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.37.48.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.37.41.png)
+
+### 10. PASSPORT:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Passport”.
+
+##### Step 2: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.34.39.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.34.26.png)
+
+### 11. WORK PERMIT:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Work Permit”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.32.54.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.32.36.png)
+
+
+
+### 12. RSA TRAFFIC REGISTER:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “RSA Traffic Register”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 4: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.29.35.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.29.20.png)
+
+### 13. INTERNATIONAL DRIVING PERMIT:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “International Driving Permit”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.25.58.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.25.36.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.25.31.png)
+
+### 14. DEFENSIVE DRIVERS CERTIFICATE:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Defensive Drivers Certificate”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
 ![](/uploads/screenshot-2020-03-26-at-12.43.04.png)
 
