@@ -19,9 +19,7 @@ coverImg: >-
 7. Tracking Unit
 8. Cross Border Permits
 
-
-
-### 1. TRUCK IDENTIFICATION 
+### 1. TRUCK IDENTIFICATION
 
 ##### **Step 1:** Login to your account, and make sure you have your statutory documents ready.
 
@@ -45,7 +43,7 @@ coverImg: >-
 
 ##### Step 1: On the top right corner, click edit
 
-##### **Step 2:** In left panel on the form, click a tab named “Purchase Details”.
+##### **Step 2:** In left panel on the form, click a tab named “Operating Licenses”.
 
 ##### Step 3: Follow the steps highlighted in the screenshots to add the required information
 
@@ -91,8 +89,6 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.52.37.png)
 
-
-
 ### 6. GOODS IN TRANSIT INSURANCE:
 
 ##### Step 1: On the top right corner, click edit
@@ -122,8 +118,6 @@ coverImg: >-
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
 ![](/uploads/screenshot-2020-03-26-at-13.47.08.png)
-
-
 
 ![](/uploads/screenshot-2020-03-26-at-13.47.28.png)
 
