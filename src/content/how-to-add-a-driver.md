@@ -21,9 +21,10 @@ coverImg: img
 10. Passport
 11. Work Permit
 12. RSA Traffic Register
-13. Purchase Details
-14. International Driving Permit
-15. Defensive Driving Certificate
+13. International Driving Permit
+14. Defensive Driving Certificate
+
+
 
 ### 1. DRIVER IDENTIFICATION:
 
@@ -47,7 +48,23 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.16.png "South African Book")
 
-### 14. INTERNATIONAL DRIVING PERMIT:
+### 12. RSA TRAFFIC REGISTER:
+
+##### Step 15: On the top right corner, click edit
+
+##### **Step 16:** In left panel on the form, click a tab named “RSA Traffic Register”.
+
+##### Step 17: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 18: Click Save
+
+##### Step 19: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.29.35.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.29.20.png)
+
+### 13. INTERNATIONAL DRIVING PERMIT:
 
 ##### Step 15: On the top right corner, click edit
 
@@ -65,7 +82,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.25.31.png)
 
-### 15. DEFENSIVE DRIVERS CERTIFICATE:
+### 14. DEFENSIVE DRIVERS CERTIFICATE:
 
 ##### Step 15: On the top right corner, click edit
 
