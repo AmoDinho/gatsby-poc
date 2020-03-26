@@ -16,8 +16,6 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 5. General Insurance
 6. Tracking Unit
 
-
-
 ### 1. TRAILER IDENTIFICATION:
 
 ##### Step 1: Login to your account, and make sure you have your statutory documents ready.
@@ -71,3 +69,19 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 ![](/uploads/screenshot-2020-03-26-at-14.34.27.png)
 
 ![](/uploads/screenshot-2020-03-26-at-14.33.53.png)
+
+### 6. TRACKING UNIT:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:**In left panel on the form, click a tab named “Tracking Unit”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-14.39.48.png)
+
+![](/uploads/screenshot-2020-03-26-at-14.39.33.png)
