@@ -12,13 +12,11 @@ coverImg: >-
 
 ## **TRUCKS:**
 
-##### Below are key instructions to successfully ADD AND EDIT a truck on Tripplo. Refer to your “Certificate of Registration” OR “Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card”.
+##### Below are key instructions to successfully ADD AND EDIT a truck on Tripplo. 
 
-![](/uploads/screenshot-2020-03-24-at-15.51.10.png "Operating Licenses Information")
+### ADDING AND EDITING OPERATING LICENCES:
 
-![](/uploads/screenshot-2020-03-24-at-15.51.23.png "Certificate of Registration")
-
-![](/uploads/screenshot-2020-03-24-at-15.51.33.png "Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card")
+##### Refer to your “Certificate of Registration” OR “Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card”.
 
 ##### **Step 1:** Login to your account, and make sure you have your statutory documents ready.
 
@@ -28,6 +26,34 @@ coverImg: >-
 
 ##### **Step 5:** Click “Truck”
 
-##### **Step 6:** In the form, Click a tab named “Truck Identification”.
+##### **Step 6:** In left panel on the form, click a tab named “Truck Identification”.
 
-##### **Step 7:** Refer to your truck identification documents and complete the required information.
+##### Step 7: Follow the steps highlighted in the screenshots to add the required information 
+
+##### Step 8: Click Save
+
+##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard 
+
+![](/uploads/screenshot-2020-03-24-at-15.51.10.png "Operating Licenses Information")
+
+![](/uploads/screenshot-2020-03-24-at-15.51.23.png "Certificate of Registration")
+
+![](/uploads/screenshot-2020-03-24-at-15.51.33.png "Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card")
+
+### ADDING AND EDITING PURCHASE DETAILS:
+
+
+
+##### Step 10: On the top right corner, click edit
+
+##### **Step 11:** In left panel on the form, click a tab named “Truck Identification”.
+
+##### Step 12: Follow the steps highlighted in the screenshots to add the required information 
+
+##### Step 13: Click Save
+
+##### Step 14: Now you will see a list of the information added in the alerts/notification dashboard 
+
+![](/uploads/screenshot-2020-03-26-at-10.03.39.png)
+
+![](/uploads/screenshot-2020-03-26-at-10.03.10.png)
