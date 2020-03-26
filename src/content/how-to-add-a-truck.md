@@ -21,7 +21,7 @@ coverImg: >-
 
 
 
-### ADDING AND EDITING OPERATING LICENCES:
+### 2. OPERATING LICENCES:
 
 ##### **Step 1:** Login to your account, and make sure you have your statutory documents ready.
 
@@ -47,7 +47,7 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-24-at-15.51.33.png "Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card")
 
-### ADDING AND EDITING PURCHASE DETAILS:
+### 4. PURCHASE DETAILS:
 
 ##### Step 10: On the top right corner, click edit
 
