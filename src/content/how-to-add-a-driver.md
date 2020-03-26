@@ -62,9 +62,23 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.38.01.png)
 
+![](/uploads/screenshot-2020-03-26-at-13.37.41.png)
+
+### 6. BANKING DETAILS:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Banking Details”.
+
+##### Step 2: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
 ![](/uploads/screenshot-2020-03-26-at-13.37.48.png)
 
-![](/uploads/screenshot-2020-03-26-at-13.37.41.png)
+
 
 ### 10. PASSPORT:
 
