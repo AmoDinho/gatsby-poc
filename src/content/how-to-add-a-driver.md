@@ -25,8 +25,6 @@ coverImg: img
 14. International Driving Permit
 15. Defensive Driving Certificate
 
-
-
 ### 1. DRIVER IDENTIFICATION:
 
 ##### Step 1:Login to your account, and make sure you have your driver’s identification details ready.
@@ -48,6 +46,24 @@ coverImg: img
 ![](/uploads/screenshot-2020-03-26-at-09.26.25.png "South African ID Card")
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.16.png "South African Book")
+
+### 14. INTERNATIONAL DRIVING PERMIT:
+
+##### Step 15: On the top right corner, click edit
+
+##### **Step 16:** In left panel on the form, click a tab named “International Driving Permit”.
+
+##### Step 17: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 18: Click Save
+
+##### Step 19: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.25.58.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.25.36.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.25.31.png)
 
 ### 15. DEFENSIVE DRIVERS CERTIFICATE:
 
