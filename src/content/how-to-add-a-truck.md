@@ -21,7 +21,7 @@ coverImg: >-
 
 
 
-### 2. OPERATING LICENCES:
+### 1. TRUCK IDENTIFICATION 
 
 ##### **Step 1:** Login to your account, and make sure you have your statutory documents ready.
 
@@ -37,28 +37,110 @@ coverImg: >-
 
 ##### Step 8: Click Save
 
-##### Step 9: You have successfully added your Truck! Now you will see a list of the information added in the alerts/notification dashboard
+##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
 
-##### **Step 11: If you need to update any information, Click “Edit” in the top right corner, update the information then Click “Save.**
+![](/uploads/screenshot-2020-03-26-at-13.55.47.png "Certificate of Registration")
 
-![](/uploads/screenshot-2020-03-24-at-15.51.10.png "Operating Licenses Information")
+### 2. OPERATING LICENSES:
 
-![](/uploads/screenshot-2020-03-24-at-15.51.23.png "Certificate of Registration")
+##### Step 1: On the top right corner, click edit
 
-![](/uploads/screenshot-2020-03-24-at-15.51.33.png "Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card")
+##### **Step 2:** In left panel on the form, click a tab named “Purchase Details”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-24-at-15.51.10.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.56.18.png "Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card")
 
 ### 4. PURCHASE DETAILS:
 
-##### Step 10: On the top right corner, click edit
+##### Step 1: On the top right corner, click edit
 
-##### **Step 11:** In left panel on the form, click a tab named “Purchase Details”.
+##### **Step 2:** In left panel on the form, click a tab named “Purchase Details”.
 
-##### Step 12: Follow the steps highlighted in the screenshots to add the required information
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
 
-##### Step 13: Click Save
+##### Step 4: Click Save
 
-##### Step 14: Now you will see a list of the information added in the alerts/notification dashboard
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
 ![](/uploads/screenshot-2020-03-26-at-10.03.39.png)
 
 ![](/uploads/screenshot-2020-03-26-at-10.03.10.png)
+
+### 5. GENERAL INSURANCE:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “General Insurance”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.53.43.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.52.24.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.52.37.png)
+
+
+
+### 6. GOODS IN TRANSIT INSURANCE:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Goods in Transit Insurance”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.50.03.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.50.21.png)
+
+### 7. TRACKING UNIT:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Tracking Unit”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.47.08.png)
+
+
+
+![](/uploads/screenshot-2020-03-26-at-13.47.28.png)
+
+### 8. CROSS BORDER PERMITS:
+
+##### Step 1: On the top right corner, click edit
+
+##### **Step 2:** In left panel on the form, click a tab named “Cross Border Permits”.
+
+##### Step 3: Follow the steps highlighted in the screenshots to add the required information
+
+##### Step 4: Click Save
+
+##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
+
+![](/uploads/screenshot-2020-03-26-at-13.45.40.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.44.03.png)
+
+![](/uploads/screenshot-2020-03-26-at-13.44.12.png)
