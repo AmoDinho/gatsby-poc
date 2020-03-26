@@ -33,7 +33,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ##### Step 11:Click “Save”.
 
-##### Step 12: You have successfully added your trailer!
+##### Step 12: You have successfully added your trailer! Now you will see a list of the information added in the alerts/notification dashboard
 
 ##### **Step 11: If you need to update any information, Click “Edit” in the top right corner, update the information then Click “Save.**
 
