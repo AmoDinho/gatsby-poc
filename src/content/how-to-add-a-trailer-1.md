@@ -10,12 +10,11 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 #### TABLE OF CONTENTS:
 
 # [1. Trailer Identification](#1.traileridentification)
-
-2. Operating Licenses
-3. Other Operating Permits
-4. Purchase Details
-5. General Insurance
-6. Tracking Unit
+# [2. Operating Licenses](#2.operatinglicenses)
+# [3. Other Operating Licenses ](#3.otheroperatinglicenses)
+# [4. Purchase Details](#4.purchasedetails)
+# [5. General Insurance](#5.generalinsurance)
+# [6. Tracking Unit](#6.trackingunit)
 
 ### 1. TRAILER IDENTIFICATION:
 
