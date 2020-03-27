@@ -5,13 +5,11 @@ tag: Hello
 date: 2020-03-26T15:59:34.381Z
 coverImg: img/fdfdfdfd
 ---
-- [1. Statutory details](#1-statutory-details)
+* [1. Statutory details](#1-statutory-details)
+* [2. Passport details](#2-passport-details)
+* [3. Purchase details](#3-purchase-details)
 
-- [2. Passport details](#2-passport-details)
-
-- [3. Purchase details](#3-purchase-details)
-
-## 1. Statutory details
+##  <a name="1-statutory-details">1. Statutory details</a>
 
 
 
@@ -29,9 +27,7 @@ coverImg: img/fdfdfdfd
 \
 “Donations can be made to the following current account, which belongs to the Real Madrid Foundation: ES17 2100 5731 7802 0032 0934 (Caixabank).”
 
-## 2. Passport details
-
-
+## <a name="2-passport-details">2.  Passport details</a>
 
 “As a result of the close collaboration between the two institutions, the Santiago Bernabeu will offer a space that is equipped to store the donations of medical supplies required in the fight against this pandemic.\
 \
@@ -47,9 +43,7 @@ coverImg: img/fdfdfdfd
 \
 “Donations can be made to the following current account, which belongs to the Real Madrid Foundation: ES17 2100 5731 7802 0032 0934 (Caixabank).”
 
-## 3. Purchase details
-
-
+##  <a name="3-purchase-details">3. Purchase details</a>
 
 “As a result of the close collaboration between the two institutions, the Santiago Bernabeu will offer a space that is equipped to store the donations of medical supplies required in the fight against this pandemic.\
 \
