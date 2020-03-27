@@ -26,7 +26,7 @@ coverImg: img
 
 
 
-### 1. DRIVER IDENTIFICATION:
+## <a name="1-driver-identification">1. Driver Identification</a>
 
 ##### Step 1:Login to your account, and make sure you have your driver’s identification details ready.
 
