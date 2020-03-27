@@ -9,20 +9,22 @@ coverImg: img
 
 #### TABLE OF CONTENTS:
 
-1. Driver Identification
-2. Contact Details
-3. Addresses
-4. Employment Details
-5. Other Driver Details
-6. Banking Details
-7. Driving License 
-8. Cross Border Permits
-9. Medical Certificate
-10. Passport
-11. Work Permit
-12. RSA Traffic Register
-13. International Driving Permit
-14. Defensive Driving Certificate
+* [1. Driver Identification](#1-driver-identification)
+* [2. Contact Details](#2-Contact-Details)
+* [3. Addresses](#3-Addresses)
+* [4. Employment Details](#4-Employment-Details)
+* [5. Other Driver Details](#5-Other-Driver-Details)
+* [6. Banking Details](#6-Banking-Details)
+* [7. Driving License](#7-Driving-License) 
+* [8. Cross Border Permits](#8-Cross-Border-Permits)
+* [9. Medical Certificates](#9-Medical-Certificates)
+* [10. Passports](#10-Passports)
+* [11. Working Permits](#11-Working-Permits)
+* [12. RSA Traffic Register](#12-RSA-Traffic-Register)
+* [13. International Driving Permit](#13-International-Driving-Permit)
+* [14. Defensive Driving Certificate](#14-Defensive-Driving-Certificate)
+
+
 
 ### 1. DRIVER IDENTIFICATION:
 
