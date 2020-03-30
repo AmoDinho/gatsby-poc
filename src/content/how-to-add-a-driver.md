@@ -24,8 +24,6 @@ coverImg: img
 * [13. International Driving Permit](#13-International-Driving-Permit)
 * [14. Defensive Driving Certificate](#14-Defensive-Driving-Certificate)
 
-
-
 ## <a name="1-driver-identification">1. Driver Identification</a>
 
 ##### Step 1:Login to your account, and make sure you have your driver’s identification details ready.
@@ -50,7 +48,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.25.png)
 
-### 2. CONTACT DETAILS:
+## <a name="2-contact-details">2. Contact Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -62,7 +60,7 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-### 3. ADDRESSES:
+## <a name="3-addresses">3. Addresses</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -74,7 +72,7 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-### 4. EMPLOYMENT INFORMATION:
+## <a name="4-employment-information">4. Employment Information</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -86,7 +84,9 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-### 5. OTHER DRIVER DETAILS:
+
+
+## <a name="5-other-driver-details">5. Other Driver Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -98,7 +98,7 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-### 6. BANKING DETAILS:
+## <a name="6-banking-details">6. Banking Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -116,7 +116,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.37.48.png)
 
-### 10. PASSPORT:
+## <a name="10-passport">10. Passport</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -132,7 +132,9 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.34.26.png)
 
-### 11. WORK PERMIT:
+
+
+## <a name="11-work-permit">11. Work Permit</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -150,6 +152,8 @@ coverImg: img
 
 ### 12. RSA TRAFFIC REGISTER:
 
+## <a name="12-RSA-traffic-registration">12. RSA Traffic Registration</a>
+
 ##### Step 1: On the top right corner, click edit
 
 ##### **Step 2:** In left panel on the form, click a tab named “RSA Traffic Register”.
@@ -164,7 +168,9 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.29.20.png)
 
-### 13. INTERNATIONAL DRIVING PERMIT:
+
+
+## <a name="13-International-driving-permit">13. International Driving Permit</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -182,7 +188,9 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.25.31.png)
 
-### 14. DEFENSIVE DRIVERS CERTIFICATE:
+
+
+## <a name="14-defensive-drivers-certificate">14. Defensive Drivers Certificate</a>
 
 ##### Step 1: On the top right corner, click edit
 
