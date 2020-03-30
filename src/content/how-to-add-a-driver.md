@@ -15,11 +15,11 @@ coverImg: img
 * [4. Employment Details](#4-Employment-Details)
 * [5. Other Driver Details](#5-Other-Driver-Details)
 * [6. Banking Details](#6-Banking-Details)
-* [7. Passport](#10-Passport)
-* [8. Working Permit](#11-Working-Permit)
-* [9. RSA Traffic Register](#12-RSA-Traffic-Register)
-* [10. International Driving Permit](#13-International-Driving-Permit)
-* [11. Defensive Driving Certificate](#14-Defensive-Driving-Certificate)
+* [7. Passport](#7-Passport)
+* [8. Working Permit](#8-Working-Permit)
+* [9. RSA Traffic Register](#9-RSA-Traffic-Register)
+* [10. International Driving Permit](#10-International-Driving-Permit)
+* [11. Defensive Driving Certificate](#11-Defensive-Driving-Certificate)
 
 ## <a name="1-Driver-Identification">1. Driver Identification</a>
 
