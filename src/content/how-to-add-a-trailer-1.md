@@ -9,19 +9,19 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 #### TABLE OF CONTENTS:
 
-# [1. Trailer Identification](#1.TrailerIdentification)
+# [1. Trailer Identification](#1-Trailer-Identification)
 
-# [2. Operating Licenses](#2.OperatingLicenses)
+# [2. Operating Licenses](#2-Operating-Licenses)
 
-# [3. Other Operating Licenses ](#3.OtherOperatingLicenses)
+# [3. Other Operating Licenses ](#3-Other-Operating-Licenses)
 
-# [4. Purchase Details](#4.PurchaseDetails)
+# [4. Purchase Details](#4-Purchase-Details)
 
-# [5. General Insurance](#5.GeneralInsurance)
+# [5. General Insurance](#5-General-Insurance)
 
-# [6. Tracking Unit](#6.TrackingUnit)
+# [6. Tracking Unit](#6-Tracking-Unit)
 
-## <a name="1-Trailer-Identification">1. Trailer Identification</a>
+## <a name="1-Trailer-Identification">1-Trailer-Identification</a>
 
 ##### Step 1: Login to your account, and make sure you have your statutory documents ready.
 
@@ -43,7 +43,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ![](/uploads/screenshot-2020-03-26-at-14.31.49.png)
 
-## <a name="2-Operating-Licenses">2. Operating Licenses</a>
+## <a name="2-Operating-Licenses">2.Operating Licenses</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -59,7 +59,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ![](/uploads/screenshot-2020-03-26-at-14.38.43.png)
 
-## <a name="4-Purchase-Details">4. Purchase Details</a>
+## <a name="4-Purchase-Details">4.Purchase Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -75,7 +75,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ![](/uploads/screenshot-2020-03-26-at-14.33.53.png)
 
-## <a name="5-General-Insurance">5. General Insurance</a>
+## <a name="5-General-Insurance">5.General Insurance</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -93,7 +93,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ![](/uploads/screenshot-2020-03-26-at-14.44.12.png)
 
-## <a name="6-Tracking-Unit">6. Tracking Unit</a>
+## <a name="6-Tracking-Unit">6.Tracking Unit</a>
 
 ##### Step 1: On the top right corner, click edit
 
