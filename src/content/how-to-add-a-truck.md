@@ -18,17 +18,15 @@ coverImg: >-
 
 # [4. Purchase Details](#4.Purchasedetails)
 
-# [5. General Insurance](#5.generalinsurance)
+# [5. General Insurance](#5.GeneralInsurance)
 
-# [6. Goods in Transit Insurance](#6.goodsintransitinsurance)
+# [6. Goods in Transit Insurance](#6.GoodsInTransitInsurance)
 
-# [7. Tracking Unit](#7.trackingunit)
+# [7. Tracking Unit](#7.TrackingUnit)
 
-# [8. Cross Border Permits](#8.crossborderpermits)
+# [8. Cross Border Permits](#8.CrossBorderPermits)
 
-
-
-## <a name="1-truck-identification">1. Truck Identification</a>
+## <a name="1-Truck-Identification">1. Truck Identification</a>
 
 ##### **Step 1:** Login to your account, and make sure you have your statutory documents ready.
 
@@ -52,9 +50,7 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-14.17.05.png)
 
-
-
-## <a name="2-operating-licenses">2. Operating Licenses</a>
+## <a name="2-Operating-Licenses">2. Operating Licenses</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -70,7 +66,7 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.56.18.png "Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card")
 
-## <a name="3-other-operating-licenses">3. Other Operating Licenses</a>
+## <a name="3-Other-Operating-Licenses">3. Other Operating Licenses</a>
 
 ## <a name="4-purchase-details">4. Purchase Details</a>
 
@@ -88,9 +84,7 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-10.03.10.png)
 
-
-
-## <a name="5-general-insurance">5. General Insurance</a>
+## <a name="5-General-Insurance">5. General Insurance</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -108,9 +102,7 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.52.37.png)
 
-
-
-## <a name="6-goods-in-transit-insurance">6.Good in Transit Insurance</a>
+## <a name="6-Goods-In-Transit-Insurance">6.Good in Transit Insurance</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -126,7 +118,7 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.50.21.png)
 
-## <a name="7-tracking-unit">7. Tracking Unit</a>
+## <a name="7-Tracking-Unit">7. Tracking Unit</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -142,9 +134,7 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.47.28.png)
 
-
-
-## <a name="8-cross-border-permits">8. Cross Border Permits</a>
+## <a name="8-Cross-Border-Permits">8. Cross Border Permits</a>
 
 ##### Step 1: On the top right corner, click edit
 
