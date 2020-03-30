@@ -72,7 +72,7 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-## <a name="4-Employment-Information">4. Employment Information</a>
+## <a name="4-Employment-Details">4. Employment Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
