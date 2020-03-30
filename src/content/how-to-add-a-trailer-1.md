@@ -10,13 +10,20 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 #### TABLE OF CONTENTS:
 
 # [1. Trailer Identification](#1.traileridentification)
+
 # [2. Operating Licenses](#2.operatinglicenses)
+
 # [3. Other Operating Licenses ](#3.otheroperatinglicenses)
+
 # [4. Purchase Details](#4.purchasedetails)
+
 # [5. General Insurance](#5.generalinsurance)
+
 # [6. Tracking Unit](#6.trackingunit)
 
-### 1. TRAILER IDENTIFICATION:
+
+
+## <a name="1-trailer-identification">1.Trailer Identification</a>
 
 ##### Step 1: Login to your account, and make sure you have your statutory documents ready.
 
@@ -38,7 +45,9 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ![](/uploads/screenshot-2020-03-26-at-14.31.49.png)
 
-### 2. OPERATING LICENSES:
+
+
+## <a name="2-operating-licenses">2.Operating Licenses</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -54,7 +63,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ![](/uploads/screenshot-2020-03-26-at-14.38.43.png)
 
-### 4. PURCHASE DETAILS:
+## <a name="4-purchase-details">4. Purchase Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -70,7 +79,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ![](/uploads/screenshot-2020-03-26-at-14.33.53.png)
 
-### 5. GENERAL INSURANCE:
+## <a name="5-general-insurance">5. General Insurance</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -88,7 +97,9 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ![](/uploads/screenshot-2020-03-26-at-14.44.12.png)
 
-### 6. TRACKING UNIT:
+
+
+## <a name="6-Tracking-unit">6. Tracking Unit</a>
 
 ##### Step 1: On the top right corner, click edit
 
