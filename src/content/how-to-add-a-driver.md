@@ -15,14 +15,11 @@ coverImg: img
 * [4. Employment Details](#4-Employment-Details)
 * [5. Other Driver Details](#5-Other-Driver-Details)
 * [6. Banking Details](#6-Banking-Details)
-* [7. Driving License](#7-Driving-License) 
-* [8. Cross Border Permits](#8-Cross-Border-Permits)
-* [9. Medical Certificates](#9-Medical-Certificates)
-* [10. Passports](#10-Passports)
-* [11. Working Permits](#11-Working-Permits)
-* [12. RSA Traffic Register](#12-RSA-Traffic-Register)
-* [13. International Driving Permit](#13-International-Driving-Permit)
-* [14. Defensive Driving Certificate](#14-Defensive-Driving-Certificate)
+* [7. Passports](#10-Passports)
+* [8. Working Permits](#11-Working-Permits)
+* [9. RSA Traffic Register](#12-RSA-Traffic-Register)
+* [10. International Driving Permit](#13-International-Driving-Permit)
+* [11. Defensive Driving Certificate](#14-Defensive-Driving-Certificate)
 
 ## <a name="1-Driver-Identification">1. Driver Identification</a>
 
@@ -114,7 +111,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.37.48.png)
 
-## <a name="10-Passport">10. Passport</a>
+## <a name="7-Passport">7. Passport</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -130,7 +127,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.34.26.png)
 
-## <a name="11-Work-Permit">11. Work Permit</a>
+## <a name="8-Work-Permit">8. Work Permit</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -146,9 +143,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.32.36.png)
 
-### 12. RSA TRAFFIC REGISTER:
-
-## <a name="12-RSA-Traffic-Registration">12. RSA Traffic Registration</a>
+## <a name="9-RSA-Traffic-Registration">9. RSA Traffic Registration</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -164,7 +159,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.29.20.png)
 
-## <a name="13-International-Driving-Permit">13. International Driving Permit</a>
+## <a name="10-International-Driving-Permit">10. International Driving Permit</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -182,7 +177,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-30-at-13.35.25.png)
 
-## <a name="14-Defensive-Drivers-Certificate">14. Defensive Drivers Certificate</a>
+## <a name="11-Defensive-Drivers-Certificate">11. Defensive Drivers Certificate</a>
 
 ##### Step 1: On the top right corner, click edit
 
