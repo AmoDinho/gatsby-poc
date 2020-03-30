@@ -15,8 +15,8 @@ coverImg: img
 * [4. Employment Details](#4-Employment-Details)
 * [5. Other Driver Details](#5-Other-Driver-Details)
 * [6. Banking Details](#6-Banking-Details)
-* [7. Passports](#10-Passports)
-* [8. Working Permits](#11-Working-Permits)
+* [7. Passport](#10-Passport)
+* [8. Working Permit](#11-Working-Permit)
 * [9. RSA Traffic Register](#12-RSA-Traffic-Register)
 * [10. International Driving Permit](#13-International-Driving-Permit)
 * [11. Defensive Driving Certificate](#14-Defensive-Driving-Certificate)
@@ -143,7 +143,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.32.36.png)
 
-## <a name="9-RSA-Traffic-Registration">9. RSA Traffic Registration</a>
+## <a name="9-RSA-Traffic-Register">9. RSA Traffic Register</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -177,7 +177,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-30-at-13.35.25.png)
 
-## <a name="11-Defensive-Drivers-Certificate">11. Defensive Drivers Certificate</a>
+## <a name="11-Defensive-Driving-Certificate">11. Defensive Driving Certificate</a>
 
 ##### Step 1: On the top right corner, click edit
 
