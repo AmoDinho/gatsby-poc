@@ -42,7 +42,7 @@ coverImg: img
 
 ##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-15.35.51.png)
+![](/uploads/screenshot-2020-03-30-at-12.09.53.png)
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.16.png)
 
