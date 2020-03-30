@@ -176,11 +176,11 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-13.25.58.png)
+![](/uploads/screenshot-2020-03-30-at-13.35.39.png)
 
-![](/uploads/screenshot-2020-03-26-at-13.25.36.png)
+![](/uploads/screenshot-2020-03-30-at-13.35.19.png)
 
-![](/uploads/screenshot-2020-03-26-at-13.25.31.png)
+![](/uploads/screenshot-2020-03-30-at-13.35.25.png)
 
 ## <a name="14-Defensive-Drivers-Certificate">14. Defensive Drivers Certificate</a>
 
@@ -194,6 +194,6 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-12.43.04.png)
+![](/uploads/screenshot-2020-03-30-at-13.37.14.png)
 
 ![](/uploads/screenshot-2020-03-26-at-12.42.47.png)
