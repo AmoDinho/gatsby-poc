@@ -48,7 +48,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.25.png)
 
-## <a name="2-contact-details">2. Contact Details</a>
+## <a name="2-Contact-Details">2. Contact Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -60,7 +60,7 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-## <a name="3-addresses">3. Addresses</a>
+## <a name="3-Addresses">3. Addresses</a>
 
 ##### Step 1: On the top right corner, click edit
 
