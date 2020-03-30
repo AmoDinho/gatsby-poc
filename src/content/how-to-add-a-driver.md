@@ -42,7 +42,7 @@ coverImg: img
 
 ##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-15.35.51.png)
+![](/uploads/screenshot-2020-03-30-at-12.09.53.png)
 
 ![](/uploads/screenshot-2020-03-26-at-09.26.16.png)
 
@@ -72,7 +72,7 @@ coverImg: img
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-## <a name="4-Employment-Information">4. Employment Information</a>
+## <a name="4-Employment-Details">4. Employment Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
