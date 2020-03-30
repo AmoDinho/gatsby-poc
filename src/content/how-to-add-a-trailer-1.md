@@ -21,7 +21,7 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ##### [6. Tracking Unit](#6-Tracking-Unit)
 
-## <a name="1-Trailer-Identification">1-Trailer-Identification</a>
+## <a name="1-Trailer-Identification">1.Trailer-Identification</a>
 
 ##### Step 1: Login to your account, and make sure you have your statutory documents ready.
 
