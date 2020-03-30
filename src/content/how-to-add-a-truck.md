@@ -44,7 +44,7 @@ coverImg: >-
 
 ##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-14.15.05.png)
+![](/uploads/screenshot-2020-03-30-at-11.45.05.png)
 
 ![](/uploads/screenshot-2020-03-26-at-14.16.44.png)
 
@@ -62,7 +62,7 @@ coverImg: >-
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-24-at-15.51.10.png)
+![](/uploads/screenshot-2020-03-30-at-11.58.03.png)
 
 ![](/uploads/screenshot-2020-03-26-at-13.56.18.png "Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card")
 
