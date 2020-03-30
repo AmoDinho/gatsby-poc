@@ -14,9 +14,9 @@ coverImg: >-
 
 # [2. Operating Licenses](#2.OperatingLicenses)
 
-# [3. Other Operating Licenses](#3.otherOperatingLicenses)
+# [3. Other Operating Licenses](#3.OtherOperatingLicenses)
 
-# [4. Purchase Details](#4.Purchasedetails)
+# [4. Purchase Details](#4.PurchasDetails)
 
 # [5. General Insurance](#5.GeneralInsurance)
 
