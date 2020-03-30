@@ -11,15 +11,24 @@ coverImg: >-
 #### TABLE OF CONTENTS:
 
 # [1. Truck Identification](#1.TruckIdentification)
+
 # [2. Operating Licenses](#2.OperatingLicenses)
+
 # [3. Other Operating Licenses](#3.otherOperatingLicenses)
+
 # [4. Purchase Details](#4.Purchasedetails)
+
 # [5. General Insurance](#5.generalinsurance)
+
 # [6. Goods in Transit Insurance](#6.goodsintransitinsurance)
+
 # [7. Tracking Unit](#7.trackingunit)
+
 # [8. Cross Border Permits](#8.crossborderpermits)
 
-### 1. TRUCK IDENTIFICATION
+
+
+## <a name="1-truck-identification">1. Truck Identification</a>
 
 ##### **Step 1:** Login to your account, and make sure you have your statutory documents ready.
 
@@ -43,7 +52,9 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-14.17.05.png)
 
-### 2. OPERATING LICENSES:
+
+
+## <a name="2-operating-licenses">2. Operating Licenses</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -59,7 +70,9 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.56.18.png "Motor Vehicle License, License Disc and Roadworthy Certificate and Operator Card")
 
-### 4. PURCHASE DETAILS:
+## <a name="3-other-operating-licenses">3. Other Operating Licenses</a>
+
+## <a name="4-purchase-details">4. Purchase Details</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -75,7 +88,9 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-10.03.10.png)
 
-### 5. GENERAL INSURANCE:
+
+
+## <a name="5-general-insurance">5. General Insurance</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -93,7 +108,9 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.52.37.png)
 
-### 6. GOODS IN TRANSIT INSURANCE:
+
+
+## <a name="6-goods-in-transit-insurance">6.Good in Transit Insurance</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -109,7 +126,7 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.50.21.png)
 
-### 7. TRACKING UNIT:
+## <a name="7-tracking-unit">7. Tracking Unit</a>
 
 ##### Step 1: On the top right corner, click edit
 
@@ -125,7 +142,9 @@ coverImg: >-
 
 ![](/uploads/screenshot-2020-03-26-at-13.47.28.png)
 
-### 8. CROSS BORDER PERMITS:
+
+
+## <a name="8-cross-border-permits">8. Cross Border Permits</a>
 
 ##### Step 1: On the top right corner, click edit
 
