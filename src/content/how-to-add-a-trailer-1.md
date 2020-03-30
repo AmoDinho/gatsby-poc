@@ -9,17 +9,17 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 #### TABLE OF CONTENTS:
 
-# [1. Trailer Identification](#1-Trailer-Identification)
+##### [1. Trailer Identification](#1-Trailer-Identification)
 
-# [2. Operating Licenses](#2-Operating-Licenses)
+##### [2. Operating Licenses](#2-Operating-Licenses)
 
-# [3. Other Operating Licenses ](#3-Other-Operating-Licenses)
+##### [3. Other Operating Licenses ](#3-Other-Operating-Licenses)
 
-# [4. Purchase Details](#4-Purchase-Details)
+##### [4. Purchase Details](#4-Purchase-Details)
 
-# [5. General Insurance](#5-General-Insurance)
+##### [5. General Insurance](#5-General-Insurance)
 
-# [6. Tracking Unit](#6-Tracking-Unit)
+##### [6. Tracking Unit](#6-Tracking-Unit)
 
 ## <a name="1-Trailer-Identification">1-Trailer-Identification</a>
 
@@ -39,9 +39,9 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ##### Step 9: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-14.30.53.png)
+![](/uploads/screenshot-2020-03-30-at-14.59.34.png)
 
-![](/uploads/screenshot-2020-03-26-at-14.31.49.png)
+![](/uploads/screenshot-2020-03-30-at-14.58.15.png)
 
 ## <a name="2-Operating-Licenses">2.Operating Licenses</a>
 
@@ -55,9 +55,9 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-14.36.52.png)
+![](/uploads/screenshot-2020-03-30-at-15.07.16.png)
 
-![](/uploads/screenshot-2020-03-26-at-14.38.43.png)
+![](/uploads/screenshot-2020-03-30-at-15.07.03.png)
 
 ## <a name="4-Purchase-Details">4.Purchase Details</a>
 
@@ -71,9 +71,9 @@ coverImg: 'https://unsplash.com/photos/qARmRLZj_E0'
 
 ##### Step 5: Now you will see a list of the information added in the alerts/notification dashboard
 
-![](/uploads/screenshot-2020-03-26-at-14.34.27.png)
+![](/uploads/screenshot-2020-03-30-at-15.11.30.png)
 
-![](/uploads/screenshot-2020-03-26-at-14.33.53.png)
+![](/uploads/screenshot-2020-03-30-at-15.11.08.png)
 
 ## <a name="5-General-Insurance">5.General Insurance</a>
 
