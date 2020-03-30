@@ -127,7 +127,7 @@ coverImg: img
 
 ![](/uploads/screenshot-2020-03-26-at-13.34.26.png)
 
-## <a name="8-Work-Permit">8. Work Permit</a>
+## <a name="8-Working-Permit">8. Working Permit</a>
 
 ##### Step 1: On the top right corner, click edit
 
